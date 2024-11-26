@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4a76d8f-e665-4bc4-b9f0-f483f4deedd6" name="Changes" comment="Premier_commit">
-      <change afterPath="$PROJECT_DIR$/sqlar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="f4a76d8f-e665-4bc4-b9f0-f483f4deedd6" name="Changes" comment="Projet_fin_commit">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sqlar.py" beforeDir="false" afterPath="$PROJECT_DIR$/sqlar.py" afterDir="false" />
     </list>
     <list id="f06f01d1-43d9-43aa-90f4-5435675dcc25" name="Changes by 202310062" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,24 +39,24 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Sqlar.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/202210233/OneDrive - College D'Alma/Documents/Dev d'App Natives/Sqlar/Examen3.py",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "settings.sync",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Sqlar.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/202210233/OneDrive - College D'Alma/Documents/Dev d'App Natives/Sqlar/Examen3.py&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\202210233\OneDrive - College D'Alma\Documents\Dev d'App Natives\Sqlar" />
@@ -107,6 +107,9 @@
       <workItem from="1731377466114" duration="12807000" />
       <workItem from="1731634947691" duration="5878000" />
       <workItem from="1732022048657" duration="5793000" />
+      <workItem from="1732158480304" duration="10625000" />
+      <workItem from="1732233489900" duration="7255000" />
+      <workItem from="1732628080609" duration="542000" />
     </task>
     <task id="LOCAL-00001" summary="Premier_commit">
       <option name="closed" value="true" />
@@ -116,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731377799615</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Projet_fin_commit">
+      <option name="closed" value="true" />
+      <created>1732158543727</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732158543727</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,7 +135,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Premier_commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Premier_commit" />
+    <MESSAGE value="Projet_fin_commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Projet_fin_commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Sqlar$Sqlar.coverage" NAME="Sqlar Coverage Results" MODIFIED="1731640685617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
